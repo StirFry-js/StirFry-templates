@@ -1,0 +1,59 @@
+{
+  "name": "rendered",
+  "version": "0.0.0",
+  "description": "A system that has put as many rendering engines together as possible",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -w --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StirFry-js/StirFry-templates.git"
+  },
+  "keywords": [
+    "templating",
+    "template-engine",
+    "stirfry"
+  ],
+  "author": "Alex Waese-Perlman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StirFry-js/StirFry-templates/issues"
+  },
+  "homepage": "https://github.com/StirFry-js/StirFry-templates#readme",
+  "dependencies": {
+    "bracket-template": "^1.1.5",
+    "dot": "^1.1.1",
+    "dust": "^0.3.0",
+    "dustjs-linkedin": "^2.7.5",
+    "ect": "^0.5.9",
+    "ejs": "^2.5.6",
+    "haml": "^0.4.3",
+    "hamlet": "^0.3.3",
+    "handlebars": "^4.0.6",
+    "hogan": "^1.0.2",
+    "jade": "^1.11.0",
+    "jsrender": "^0.9.84",
+    "jtemplate": "^1.0.0",
+    "marked": "^0.3.6",
+    "marko": "^4.2.7",
+    "markup-js": "^1.5.21",
+    "mote": "^0.2.0",
+    "mustache": "^2.3.0",
+    "nunjucks": "^3.0.0",
+    "plates": "^0.4.11",
+    "pope": "^1.0.2",
+    "pug": "^2.0.0-beta11",
+    "pure": "^2.85.0",
+    "rendy": "^1.1.0",
+    "riot-tmpl": "^3.0.3",
+    "shaven": "^1.1.0",
+    "shopify-liquid": "^1.7.5",
+    "sizlate": "^1.2.5",
+    "swig": "^1.4.2",
+    "template7": "^1.1.4",
+    "transparency": "^1.0.0",
+    "underscore": "^1.8.3",
+    "xtemplate": "^4.6.0"
+  }
+}
